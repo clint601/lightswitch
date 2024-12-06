@@ -6,11 +6,11 @@ body{
 }
 
 #btnOn {
-    background-color: red;
+    background-color: green;
 }
 
 #btnOff{
-    background-color: green;
+    background-color: red;
 }
 
 button {
